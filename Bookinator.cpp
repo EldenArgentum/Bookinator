@@ -108,7 +108,7 @@ int main() {
             }
         }
         
-//
+// ayayay
 
         std::cout << "What is the publication day?\t";
         while (true) {
