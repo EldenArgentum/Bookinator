@@ -110,7 +110,7 @@ int main() {
         
 // ayayaya
 
-        std::cout << "What is the publication day?\t" << std::endl;
+        std::cout << "What is the publication day?\t";
         while (true) {
             std::cin >> PublicationDate[1];     // Day
             if (PublicationDate[1] == 1 ||
