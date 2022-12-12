@@ -108,9 +108,9 @@ int main() {
             }
         }
         
-// ayayay
+// ayayaya
 
-        std::cout << "What is the publication day?\t";
+        std::cout << "What is the publication day?\t" << std::endl;
         while (true) {
             std::cin >> PublicationDate[1];     // Day
             if (PublicationDate[1] == 1 ||
