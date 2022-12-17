@@ -191,7 +191,6 @@ int main() {
             
     system("pause"); // So the terminal doesn't just quit out after the program's done
 
-    std::cout << "tesitn git!!a!!";
     return 0;
 }
 
